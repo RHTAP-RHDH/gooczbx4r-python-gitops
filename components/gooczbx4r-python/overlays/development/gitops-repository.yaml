@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gooczbx4r-python-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/gooczbx4r-python-gitops
